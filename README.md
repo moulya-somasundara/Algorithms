@@ -1,2 +1,2 @@
 # Algorithms
-My Solution to Data Structure and Algorithm Questions on Leetcode in Python 3. 
+My Solution to Data Structure and Algorithm Questions on Leetcode in Python.
